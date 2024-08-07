@@ -67,7 +67,7 @@ To share your changes with others, you can push and pull your commits to/from a 
 
 Initializing GIT is simpler in the Golden edition of Bruno. You can simply click on the "initialize" button in the GIT modal dialogue to initialize the Collection with GIT.
 
-![Demo for git initialisation](https://i.imgur.com/dT2zWil.mp4)
+![Demo for git initialisation]([https://i.imgur.com/dT2zWil.mp4](https://raw.githubusercontent.com/sanjai0py/bruno-docs-test/main/assets/demo-git-initialise.mp4))
 
 #### Adding and Committing the Changes
 
